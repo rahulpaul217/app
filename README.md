@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/OrgRahul/Proj_1_devops/_apis/build/status%2Frahulpaul217.app?branchName=master)](https://dev.azure.com/OrgRahul/Proj_1_devops/_build/latest?definitionId=7&branchName=master)
